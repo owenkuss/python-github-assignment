@@ -2,7 +2,7 @@
 print("Welcome to my Python program!")
 
 #Ask the User for Input (Weekly Savings)
-money = input("How much money did you save this week?)
+money = input("How much money did you save this week?\n")
 
 #Forcast Monthly Savings based on Weekly Savings
 money = float(money)
