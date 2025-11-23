@@ -1,4 +1,5 @@
 Monthly Savings Forcaster
+This program takes weekly savings and forcasts it for the month. It does this by multiplying the weekly savings by 4.
 
 python app.py
 
