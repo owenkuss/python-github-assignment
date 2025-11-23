@@ -1,0 +1,8 @@
+Monthly Savings Forcaster
+
+python app.py
+
+Example Output:
+How much money did you save this week?
+300
+You are on track to save $1200 this month.
